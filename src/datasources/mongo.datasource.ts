@@ -4,7 +4,7 @@ import {juggler} from '@loopback/repository';
 const config = {
   name: 'mongo',
   connector: 'mongodb',
-  url: 'mongodb+srv://JaimeEdoDB:EnviroSIG9@cluster.uqpxe.mongodb.net/EmpresaSoft2?retryWrites=true&w=majority',
+  url: '',
   host: '',
   port: 0,
   user: '',
